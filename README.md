@@ -1,5 +1,6 @@
 # 🐔🐶🕷️ Animal Classification
 Proyek ini bertujuan untuk membangun model deep learning yang dapat mengklasifikasikan gambar hewan: ayam (chicken), anjing (dog), dan laba-laba (spider).
+[Link Google Collab](https://colab.research.google.com/drive/1eLBWgxkZPvPydXsdAdeN7Bs3Xq58zGB8?usp=sharing)
 
 # 🙌 Dataset
 Dataset diperoleh dari Kaggle [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
